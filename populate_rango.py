@@ -17,7 +17,7 @@ def populate():
          "views":32},
         {"title":"Learn Python is 10 Minutes",
          "url":"http://www.korokithakis.net/tutorials/python/",
-         "views":32} ]
+         "views":15} ]
 
     django_pages= [
         {"title":"Official Django Tutorial",
@@ -28,7 +28,7 @@ def populate():
          "views":16},
         {"title":"How to Tango with Django",
          "url":"http://www.tangowithdjango.com/",
-         "views":16} ]
+         "views":12} ]
 
     other_pages = [
         {"title":"Bottle",
